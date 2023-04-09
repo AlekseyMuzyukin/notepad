@@ -1,0 +1,22 @@
+{
+    "0": {
+        "subject": "first",
+        "contents": "one",
+        "date": "2023-04-08"
+    },
+    "1": {
+        "subject": "five",
+        "contents": "пять",
+        "date": "2023-04-08"
+    },
+    "2": {
+        "subject": "bju",
+        "contents": "5776",
+        "date": "2023-04-08"
+    },
+    "3": {
+        "subject": "234",
+        "contents": "345",
+        "date": "2023-04-09"
+    }
+}
